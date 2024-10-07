@@ -1,0 +1,15 @@
+1. npm init -y
+2. update scripts
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+3. npm i axios react react-dom react-router-dom
+@fortawesome/free-brands-svg-icons
+@fortawesome/free-regular-svg-icons
+@fortawesome/free-solid-svg-icons
+@fortawesome/react-fontawesom
+4. npm i -D @vitejs/plugin-react vite
+5. icon(public): [index.html]<link rel="icon" type="image/x-icon" href="/favicon.png">
+6. title: [index.html]<title></title>
