@@ -11,5 +11,5 @@
 @fortawesome/free-solid-svg-icons
 @fortawesome/react-fontawesom
 4. npm i -D @vitejs/plugin-react vite
-5. icon(public): [index.html]<link rel="icon" type="image/x-icon" href="/favicon.png">
-6. title: [index.html]<title></title>
+5. icon: <link rel="icon" type="image/x-icon" href="/favicon.png">
+6. title: <title></title>
